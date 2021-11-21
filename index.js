@@ -1,2 +1,2 @@
 const hello = 'hello!';
-print(hello);
+console.log(hello);
